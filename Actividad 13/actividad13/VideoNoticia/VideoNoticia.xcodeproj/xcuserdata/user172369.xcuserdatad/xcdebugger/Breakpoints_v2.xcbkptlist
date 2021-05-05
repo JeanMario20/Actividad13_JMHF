@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DB11D16F-858C-4D79-9E01-4234E9B2093C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "768CBC4D-BE5C-4472-8722-09F5169330A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoNoticia/LeerNoticias.swift"
+            timestampString = "641526595.136199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "163D7951-1B2C-4406-94B0-548BAEDF35F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoNoticia/LeerNoticias.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "163D7951-1B2C-4406-94B0-548BAEDF35F8 - 3f6cb600e48b112"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoNoticia.Noticias.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;VideoNoticia.Noticias.CodingKeys&gt;"
+                  moduleName = "VideoNoticia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172369/Desktop/actividad13/VideoNoticia/VideoNoticia/LeerNoticias.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "163D7951-1B2C-4406-94B0-548BAEDF35F8 - 7b120d7be6820970"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VideoNoticia.Noticias.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "VideoNoticia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user172369/Desktop/actividad13/VideoNoticia/VideoNoticia/LeerNoticias.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
